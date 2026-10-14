@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+temp/*
+output/
+*.mp4
+*.mov
+*.avi
+*.mkv
+.venv/
+venv/
+env/
+.pytest_cache/
+.git_vendor_backup/
